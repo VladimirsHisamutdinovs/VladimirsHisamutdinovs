@@ -10,6 +10,6 @@
 - 🤔 I have a bachelor degree in Computer Science and some experience in the industry.
 - 💬 My ex boss said that I have a fantastic work effort.
 - 📫 How to reach me: vladibern@gmail.com 
-- As a hobby, I host a coding YouTube channel AveCoders: https://www.youtube.com/channel/UCBvWPPieVSwyvfXvspW2vAg?sub_confirmation=1
+- As a hobby, I host a coding YouTube channel AveCoders: https://www.youtube.com/channel/AveCoders
 - ⚡ Fun fact: technophobia is not a fear of techno music
 
